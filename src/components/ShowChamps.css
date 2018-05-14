@@ -1,0 +1,35 @@
+.App {
+    background-image: url(http://i.imgur.com/usWGJ40.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    background-size: cover;
+  }
+  .LeagueOfLegends{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+  }
+  .App-header {
+    height: 150px;
+    padding: 20px;
+    color: black;
+  }
+  .champStyle{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: "Friz Quadrata Std Medium", "Tahoma";
+    font-weight: bold;
+    width: 40vw;
+    display: inline-block;
+    padding: 50px;
+    text-align: center;
+  }
+  .add{
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: -5vw;
+  }
+  
